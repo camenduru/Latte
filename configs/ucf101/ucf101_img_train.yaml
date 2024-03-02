@@ -3,7 +3,7 @@ dataset: "ucf101_img"
 
 data_path: "/path/to/datasets/UCF101/videos/"
 frame_data_txt: "/path/to/datasets/UCF101/train_256_list.txt"
-pretrained_model_path: "/path/to/pretrained/Latte/"
+pretrained_model_path: "/content/Latte/share_ckpts/"
 
 # save and load
 results_dir: "./results_img"

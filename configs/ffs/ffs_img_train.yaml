@@ -4,7 +4,7 @@ dataset: "ffs_img"
 data_path: "/path/to/datasets/preprocessed_ffs/train/videos/"
 frame_data_path: "/path/to/datasets/preprocessed_ffs/train/images/"
 frame_data_txt: "/path/to/datasets/preprocessed_ffs/train_list.txt"
-pretrained_model_path: "/path/to/pretrained/Latte/"
+pretrained_model_path: "/content/Latte/share_ckpts/"
 
 # save and load
 results_dir: "./results_img"

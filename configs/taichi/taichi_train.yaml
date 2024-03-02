@@ -2,7 +2,7 @@
 dataset: "taichi"
 
 data_path: "/path/to/datasets/taichi"
-pretrained_model_path: "/path/to/pretrained/Latte/"
+pretrained_model_path: "/content/Latte/share_ckpts/"
 
 # save and load
 results_dir: "./results"

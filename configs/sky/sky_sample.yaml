@@ -1,7 +1,7 @@
 # path:
 ckpt: # will be overwrite
 save_img_path: "./sample_videos/" # will be overwrite
-pretrained_model_path: "/path/to/pretrained/Latte/"
+pretrained_model_path: "/content/Latte/share_ckpts/"
 
 # model config: 
 model: Latte-XL/2
